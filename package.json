@@ -1,0 +1,13 @@
+{
+  "name": "jobs-webscrape",
+  "version": "0.0.1",
+  "description": "Scrape the web for jobs.",
+  "main": "server.js",
+  "author": "Scotch",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cheerio": "latest",
+    "express": "latest",
+    "request": "latest"
+  }
+}
